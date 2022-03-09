@@ -13,3 +13,8 @@ Increasing length of message can be spam
 Highest accuracy using count vactorizer 
 
 ![image](https://user-images.githubusercontent.com/48947659/157382790-cb29d1ce-085c-44b2-b086-67a18947c63a.png)
+
+using  WordNetLemmatizer in spam case doesnt improve any accuracy 
+
+
+
